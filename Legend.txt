@@ -1,0 +1,19 @@
+1)Cyberpunk : Folder containing the Dataset
+
+2)Failed Attempts : The failed samples created
+
+3)Generated : The successfully generated pictures
+
+4)Samples : contains the progress from epoch 1 to epoch 100
+
+5)Saved_model : contains the discriminator and generator model
+
+6)Cyberpunk downloader : contains a script to download and check the missing files of the dataset
+
+7)Generator : Generates an image from the generator model
+
+8)Legend : you are here
+
+9)The Report
+
+10)The GAN Network : the star of the show, contains the discriminator and the generator training and pre-processing
